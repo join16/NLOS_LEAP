@@ -1,5 +1,5 @@
 # LEAP: Learning to Enhance Aperture Phasor Field for Non-Line-of-Sight Imaging
-In Cho, Hyunbo Shim, [Seon Joo Kim](https://sites.google.com/site/seonjookim/)
+[In Cho](https://sites.google.com/view/im-join), Hyunbo Shim, [Seon Joo Kim](https://sites.google.com/site/seonjookim/)
 
 [[`arXiv`](https://arxiv.org/abs/2407.18574)] [[`Project`](https://join16.github.io/leap-page/)] [[`BibTeX`](#Citation)]
 
